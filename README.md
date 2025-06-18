@@ -1,17 +1,18 @@
-# ✅ To-Do List App
+# Exercise - Contact List App
 
-A responsive To-Do List application built with **React**, **TypeScript**, **Redux Toolkit** and **React Router**. The app allows users to create, filter, and manage tasks by status and priority.
+A contact list application built with **React**, **TypeScript**, **Redux Toolkit** and **React Router**. The app allows users to create, filter, and manage tasks by status and priority.
 
-- **Live Demo:** https://to-do-list-seven-jet.vercel.app/
+- **Live Demo:** https://exercise-contacts-list.vercel.app/
 
-![image](https://github.com/user-attachments/assets/7fffa976-c501-415c-ba7f-9ba9a9fb6df5)
+![image](https://github.com/user-attachments/assets/993919bc-c5a1-4829-af40-dd9c782c984b)
+
+
 
 
 ## Features
 
-- Add, edit and remove tasks
-- Filter tasks by priority or status
-- Change task status (completed or pending)
+- Add, edit and remove contacts
+- Filter contacts by name or email
 - State management with Redux Toolkit
 - Routing with React Router
 - Component-level styling with styled-components
